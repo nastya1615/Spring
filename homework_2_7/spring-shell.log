@@ -1,0 +1,54 @@
+1702537811991:addStudent 1 Иван Иванов 23
+1702538021451:addStudent
+1702538035223:addStudent 1 Иван Иванов 20
+1702538182677:addStudent 1, Иванов, Иван, 23
+1702538214691:addStudent 1 Иванов Иван 23
+1702538576546:addStudent --1 --Иванов --Иван --23
+1702538910919:addStudent 1 Иванов Иван 20
+1702538944171:addStudent 1 Иван Иванов 20
+1702539096878:addStudent
+1702539110240:addStudent 1 Иван Иванов 20
+1702539243891:addStudent --id 1 --firstName Иван --lastName Иванов --age 20
+1702539268373:writeAllStudent
+1702539311753:addStudent --id 1 --firstName Иван --lastName Иванов --age 20
+1702539317690:writeAllStudent
+1702539367762:addStudent --id 1 --firstName Иван --lastName Иванов --age 20
+1702539372753:writeAllStudent
+1702540230661:addStudent --firstName Иван --lastName Иванов --age 20
+1702540236912:writeAllStudent
+1702540324953:addStudent --firstName Иван --lastName Иванов --age 20
+1702540344332:addStudent --firstName Петр --lastName Петров --age 27
+1702540362798:addStudent --firstName Константин --lastName Константинов --age 30
+1702540382707:writeAllStudent
+1702540430779:deleteStudent
+1702540454703:deleteStudent --uuid 382b73b5-e282-4330-830e-adde53ee7dda
+1702540464961:writeAllStudent
+1702540723314:addStudent --firstName Иван --lastName Иванов --age 20
+1702540730266:addStudent --firstName Петр --lastName Петров --age 27
+1702540736661:addStudent --firstName Константин --lastName Константинов --age 30
+1702540742366:writeAllStudent
+1702540748348:clearStudentList
+1702540770438:addStudent --firstName Иван --lastName Иванов --age 20
+1702540777530:addStudent --firstName Петр --lastName Петров --age 27
+1702540784020:addStudent --firstName Константин --lastName Константинов --age 30
+1702540790389:writeAllStudent
+1702540795786:clearStudentList
+1702540801114:writeAllStudent
+1702557970963:addStudent --firstName Иван --lastName Иванов --age 20
+1702566798687:--firstName Иван --lastName Иванов --age 20
+1702566808397:addStudent --firstName Иван --lastName Иванов --age 20
+1702569917678:--firstName Иван --lastName Иванов --age 20
+1702569926594:addStudent --firstName Иван --lastName Иванов --age 20
+1702569998448:writeAllStudent
+1702570095152:addStudent --firstName Иван --lastName Иванов --age 20
+1702570692580:addStudent --firstName Петр --lastName Петров --age 27
+1702570700575:addStudent --firstName Константин --lastName Константинов --age 30
+1702570714508:deleteStudent --5edfae79-599d-4e30-b0ef-c241bbc8b247
+1702570737328:deleteStudent --uuid 5edfae79-599d-4e30-b0ef-c241bbc8b247
+1702570746352:writeAllStudent
+1702573014969:addStudent --firstName Иван --lastName Иванов --age 20
+1702573040744:writeAllStudent
+1702573281278:addStudent --firstName Иван --lastName Иванов --age 20
+1702573290705:writeAllStudent
+1702576575250:addStudent --firstName Иван --lastName Иванов --age 20
+1702576603343:writeAllStudent
