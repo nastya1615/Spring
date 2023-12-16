@@ -1,6 +1,6 @@
 package com.example.homework_2_7.event;
 
-import com.example.homework_2_7.StudentPart.StudentShell;
+import com.example.homework_2_7.studentPart.StudentShell;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.event.ApplicationStartedEvent;

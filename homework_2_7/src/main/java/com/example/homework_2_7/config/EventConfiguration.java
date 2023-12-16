@@ -1,6 +1,6 @@
 package com.example.homework_2_7.config;
 
-import com.example.homework_2_7.StudentPart.StudentShell;
+import com.example.homework_2_7.studentPart.StudentShell;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

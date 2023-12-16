@@ -1,4 +1,4 @@
-package com.example.homework_2_7.StudentPart;
+package com.example.homework_2_7.studentPart;
 
 import com.example.homework_2_7.event.AddStudentEvent;
 import com.example.homework_2_7.event.DeleteStudentEvent;

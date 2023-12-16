@@ -1,8 +1,7 @@
-package com.example.homework_2_7.StudentPart;
+package com.example.homework_2_7.studentPart;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import org.springframework.stereotype.Component;
 
 import java.util.UUID;
 

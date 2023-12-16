@@ -1,6 +1,6 @@
 package com.example.homework_2_7.event;
 
-import com.example.homework_2_7.StudentPart.Student;
+import com.example.homework_2_7.studentPart.Student;
 import lombok.Getter;
 import org.springframework.context.ApplicationEvent;
 
